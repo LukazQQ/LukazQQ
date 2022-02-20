@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://www.linkedin.com/in/linkedin.com/in/lucas-vinicius-8892a7183/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leodanvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lukazqq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodanvinicius&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
