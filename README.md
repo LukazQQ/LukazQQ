@@ -4,8 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de Suporte N1 ...
 - 🌱 Atualmente estou me especializando em responsividade, Flex box e Grid ...
-- 💬 Me pergunte algo ...
-- 
+
 
 <div align="center">
   <a href="https://github.com/LukazQQ">
